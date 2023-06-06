@@ -117,7 +117,7 @@ Kada korisnik uređuje Automobil, sljedeći koraci se odvijaju:
 2.5.4.	Slučaj korištenja 4: Brisanje Automobila
 Kad korisnik briše Automobile iz baze podataka web aplikacije, sljedeći koraci se odvijaju:
 
-1.	Korisnik klikne na link Obriši u popisu filmova na stranicama Popis automobila ili  Tražilica automobila.
+1.	Korisnik klikne na link Obriši u popisu automobila na stranicama Popis automobila ili  Tražilica automobila.
 2.	Web aplikacija zahtijeva potvrdu o brisanju automobila.
 3.	Ako korisnik potvrđuje brisanje, Automobil je uklonjen iz baze.
 4.	Web aplikacija prikazuje stranicu Popis automobila.
